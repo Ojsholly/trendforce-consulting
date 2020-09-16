@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+#dropdown-menu-0 .hide-buttons [data-button] {
+    display: none !important;
+}
+
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+    background: #1C85D8;
+}
+
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+    background: #103059;
+}
+
+#dropdown-menu-0 .navbar-toggler {
+    color: #ffffff;
+}
+
+#header4-a H1 {
+    color: #1C85D8;
+    font-family: 'Playfair Display', sans-serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+#msg-box4-c .lead {
+    color: #1C85D8;
+}
+
+#msg-box4-c .mbr-section-title {
+    color: #1C85D8;
+}
+
+#msg-box4-c .lead P {
+    text-align: center;
+}
+
+#header3-3 H3 {
+    text-align: center;
+    color: #1C85D8;
+}
+
+#header3-3 SMALL {
+    text-align: left;
+}
+
+#features1-0 H4 {
+    text-align: right;
+    color: #1C85D8;
+    font-size: 15px;
+}
+
+#features1-1 H4 {
+    font-size: 15px;
+    color: #1C85D8;
+}
+
+#features1-2 H4 {
+    color: #1C85D8;
+    font-size: 15px;
+}
+
+#msg-box3-4 .mbr-header .mbr-header__text {
+    text-align: center;
+}
+
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+    text-align: center;
+}
+
+#msg-box3-4 .mbr-section-title {
+    color: #1C85D8;
+}
+
+#msg-box3-4 .lead {
+    font-size: 23px;
+    color: #1C85D8;
+}
+
+#contacts2-9 P {
+    color: #ffffff;
+}
