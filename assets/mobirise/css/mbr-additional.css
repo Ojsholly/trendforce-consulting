@@ -1035,29 +1035,17 @@ a {
     left: -1rem;
   }
 }
-.cid-sb15VLWE2u {
-  background-color: #ffffff;
+.cid-scBLS80wn1 {
+  background-image: url("../../../assets/images/dubai.jpeg");
 }
-.cid-sb15VLWE2u .row {
-  flex-direction: row-reverse;
-}
-@media (max-width: 991px) {
-  .cid-sb15VLWE2u .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sb15VLWE2u .image-wrapper img {
+.cid-scBLS80wn1 .image-wrap img {
   width: 100%;
-  object-fit: cover;
 }
 @media (min-width: 992px) {
-  .cid-sb15VLWE2u .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-@media (max-width: 768px) {
-  .cid-sb15VLWE2u .text-wrapper {
-    margin-bottom: 2rem;
+  .cid-scBLS80wn1 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 50%;
   }
 }
 .cid-sb169kWVwl {
