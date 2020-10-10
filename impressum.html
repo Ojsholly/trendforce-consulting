@@ -19,6 +19,33 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+
+    <style>
+        input[type="number"]::-webkit-outer-spin-button,
+        input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
+
+        [aos="fade"] {
+            opacity: 0;
+            transition-property: opacity;
+        }
+
+        [aos="fade"].aos-animate {
+            opacity: 1;
+        }
+    </style>
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+   <script>
+        AOS.init();
+    </script>
   
   
   
@@ -60,7 +87,7 @@
     </nav>
 </section>
 
-<section class="image2 cid-sb1ifehowd" id="image2-c">
+<section class="image2 cid-sb1ifehowd" id="image2-c" data-aos="fade-up" aos-duration="700">
     
 
     
@@ -84,7 +111,7 @@
     </div>
 </section>
 
-<section class="content5 cid-sb1iUs8VTM" id="content5-d">
+<section class="content5 cid-sb1iUs8VTM" id="content5-d" data-aos="fade-up" aos-duration="700">
     
     <div class="container">
         <div class="row justify-content-center">
@@ -128,5 +155,12 @@
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
     <input name="animation" type="hidden">
+     <script>
+        AOS.init({
+            easing: 'ease-out-back',
+            duration: 1000
+        });
+    </script>
+
   </body>
 </html>
